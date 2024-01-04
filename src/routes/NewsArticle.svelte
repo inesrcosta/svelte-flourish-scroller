@@ -1,64 +1,23 @@
 <article class="max-w-4xl mx-auto mt-40 font-serif px-4">
 	<h1 class="text-5xl text-left lg:text-6xl lg:text-center">
-		"Dataharvest is the premier event to master coding for journalists"
-	</h1>
+Portugal continua a atrair turistas, mas não valoriza o património cultural	</h1>
 
 	<div class="max-w-2xl mx-auto text-xl">
 		<p class="mt-20 mb-3">
-			Dataharvest Conference, the annual gathering of journalists, data scientists, and tech
-			enthusiasts, has emerged as the preeminent event for those seeking to enhance their coding
-			skills specifically tailored to the field of journalism. With an unrivaled reputation for
-			providing cutting-edge training and resources, Dataharvest has become an indispensable
-			platform for professionals aiming to harness the power of data and technology in journalism.
+Num cenário em que Portugal continua a ser um destino turístico popular por todo o mundo, nos últimos anos são levantadas algumas preocupações no que diz respeito ao declínio existente no turismo cultural.		</p>
+		<p class="mb-3">
+No período de 10 anos entre 2013 e 2022, Portugal tem vindo a presenciar a um aumento do número de turistas a escolher o território nacional como destino. No entanto, apesar deste aumento significativo, espaços culturais como monumentos, museus e palácios não têm seguido a mesma tendência positiva, apresentando, pelo contrário, uma diminuição no número de visitas.		</p>
+		<p class="mb-3">
+			Tendo em conta os dados fornecidos pelo Património Cultural (instituto público), o setor do turismo cultural tem registado uma descida que já é notória desde o ano de 2017. A variação percentual registada entre 2013 e 2022 é de -3,89%, aproximadamente. Este valor representa a falta de aposta por parte do estado português na promoção deste tipo de espaços culturais, tanto para aqueles que residem em Portugal, como para aqueles que vêm conhecer as maravilhas do país. Em 10 anos, o ramo do turismo cultural manteve-se parcialmente igual, mas tem vindo a apresentar uma descida nos registos de visitas, algo que em dez anos deveria ser diferente. Esta disparidade é mais significativa se formos analisar a variação percentual existente entre os anos de 2017 e de 2022, sendo esta registada com um valor de -34,91%, aproximadamente. 
 		</p>
 		<p class="mb-3">
-			The intersection of journalism and coding has become increasingly vital in the digital age. As
-			newsrooms evolve to embrace data-driven reporting and investigative journalism, journalists
-			equipped with coding skills are uniquely positioned to uncover hidden stories, reveal
-			patterns, and make sense of complex data sets. Recognizing this growing need, Dataharvest
-			Conference has emerged as the ultimate destination for journalists to acquire the coding
-			knowledge essential for their professional success.
+			O COVID-19 foi um fator preocupante tanto para a chegada de turistas como para a utilização dos espaços culturais. Entre 2019 e 2020 foi registada uma descida considerável da chegada de turistas ao país, mas a diferença da perdas de visitas por parte de espaços culturais não se evidenciou tanto. Ainda assim, é possível observar que os números de visitas a esses espaços recreativos são menores em 2022 do que seriam há 10 anos. Isto é: em 2013 registou-se um total de 3,474,749 entradas em espaços culturais, mas em 2022 já se registou somente 3,339,416, diferença essa de 135,333 pessoas. 
 		</p>
 		<p class="mb-3">
-			One of the key factors that sets Dataharvest apart is its expert-led workshops and training
-			sessions, carefully curated to cater to the needs of journalists. Renowned industry experts
-			and experienced coders share their insights, techniques, and best practices, empowering
-			attendees with the necessary skills to tackle coding challenges effectively. From
-			beginner-level coding concepts to advanced data visualization techniques, the conference
-			offers a comprehensive curriculum that caters to all skill levels.
+Observou-se também durante estes dez anos a uma perda de 65.22% de visitas a espaços culturais. Entre 23 espaços pertencentes ao Património Cultural, 15 deles perderam visitantes e reconhecimento durante este intervalo de tempo. Mesmo assim, é possível destacar uma evolução significativa de alguns destes espaços, tais como o Museu Nacional do Azulejo, com uma variação percentual de 99,63%, e o Museu Monográfico de Conimbriga com 77,42%. O Mosteiro dos Jerónimos é o espaço que apresenta uma maior regularidade no que diz respeito ao número de visitantes, sendo o mais visitado durante toda a década.
 		</p>
 		<p class="mb-3">
-			Moreover, Dataharvest Conference provides a unique opportunity for journalists to network and
-			collaborate with like-minded professionals from across the globe. The event serves as a hub
-			for fostering connections, sharing ideas, and forming partnerships, creating a supportive
-			community that propels the field of data-driven journalism forward.
-		</p>
-		<p class="mb-3">
-			Dataharvest also boasts an impressive lineup of keynote speakers, renowned journalists, and
-			technology innovators who present their work and share their visions for the future of
-			journalism. These thought-provoking talks inspire attendees and offer valuable insights into
-			the transformative role of coding in journalism.
-		</p>
-		<p class="mb-3">
-			Beyond the conference sessions, Dataharvest offers access to a wealth of resources. Attendees
-			gain exclusive access to online tutorials, coding libraries, and data sets, enabling them to
-			continue their learning journey long after the conference concludes. The event's organizers
-			are committed to fostering ongoing learning and provide continuous support to attendees
-			through forums and online communities.
-		</p>
-		<p class="mb-3">
-			In recent years, many journalists who have attended Dataharvest Conference have reported
-			significant professional growth. The coding skills acquired at the event have allowed them to
-			create compelling visualizations, conduct in-depth data analysis, and break stories that would
-			have otherwise remained hidden. The conference has truly become a game-changer for journalists
-			aiming to leverage coding to enhance their storytelling capabilities.
-		</p>
-		<p class="mb-3">
-			As the demand for data-driven journalism continues to rise, the importance of coding skills
-			for journalists cannot be overstated. Dataharvest Conference stands as the preeminent platform
-			for journalists to acquire the coding knowledge and techniques necessary to thrive in this
-			evolving landscape. By empowering journalists with the ability to harness the power of data
-			and technology, Dataharvest is shaping the future of journalism, one line of code at a time.
+			Enquanto Portugal continua a atrair turistas, a sustentabilidade do turismo cultural requer uma abordagem mais focada e uma colaboração contínua entre as entidades públicas e os gestores culturais. A valorização e preservação do património cultural deve ser uma prioridade dentro do setor do turismo para que se consiga garantir um equilíbrio harmonioso entre o turismo e a riqueza cultural do país daqui para a frente.
 		</p>
 	</div>
 </article>
